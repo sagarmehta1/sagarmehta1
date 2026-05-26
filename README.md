@@ -18,8 +18,4 @@ Pipeline that uses Claude Haiku 4.5 with structured JSON output to extract trade
 - **B.S. Computer Engineering** (Cum Laude), University of Connecticut (2019)
 - **2021 to 2026**: Systematic credit trading, UBS Investment Bank
 
-## Currently
-
-Exploring AI-native builder seats: forward-deployed engineering, deployment engineering, and solutions architecture at AI labs and AI-forward startups.
-
 Code samples available on request.
